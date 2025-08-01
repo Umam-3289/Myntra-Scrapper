@@ -89,6 +89,6 @@ For queries or collaboration:
 
 Umam Khan
 📩 umamkhan9931@gmail.com
-🔗 umam-khan-7213aa261
+🔗 https://www.linkedin.com/in/umam-khan-7213aa261/
 
 
