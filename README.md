@@ -19,7 +19,7 @@ A Python-based web scraper to extract product details from Myntra — one of Ind
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Myntra-Scrapper.git
+git clone https://github.com/Umam-3289/Myntra-Scrapper.git
 cd Myntra-Scrapper
 2. Install Dependencies
 Make sure Python 3.7+ is installed.
